@@ -22,3 +22,10 @@ while (j<10)
   alert(j);
   j++;
 }`
+## Experience:
+Institute of Mining Electrical Engineering and Automation.
+Specialization: development and implementation of complex automation solutions.
+
+## Education:
+Belarusian National Technical University. Software engineer.
+Сourses: RS School. JavaScript/Front-end. Stage 0
